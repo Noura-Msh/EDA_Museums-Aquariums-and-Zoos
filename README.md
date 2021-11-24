@@ -1,4 +1,5 @@
-# EDA_PROJECT
+# EDA_Museums-Aquariums-and-Zoos
+
 # Abstract:
 The objective of this exploratory analysis was to conduct a statistical analysis of the data of museums, aquariums and zoos. As we saw, the data set contains many null and zero values. In order to get an accurate result, we dropped the null values and got rid of the zero values from our calculations. The modeling indicates that the type of museum in each state has a positive impact on revenues.
 
